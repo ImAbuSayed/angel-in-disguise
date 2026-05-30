@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/angel-in-disguise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Angel In Disguise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/angel-in-disguise/) |
+| **Get License** | [Commercial Licensing for Angel In Disguise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/angel-in-disguise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 5038d7fb51a8b67a6bc4799a71d42b85075197fb
+> I see the starlight falling in your eyes
+> You are my favorite kind of sweet surprise
+> We're swaying slow to a distant hum
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
