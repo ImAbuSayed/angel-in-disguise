@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/angel-in-disguise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Angel In Disguise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/angel-in-disguise/) |
+| **Get License** | [License this song: Angel In Disguise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/angel-in-disguise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f06310d880f7c78531d504b5bdd394646d61b86c58462eb88c38638f7900ac0b` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
